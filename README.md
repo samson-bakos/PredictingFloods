@@ -6,7 +6,7 @@ This report focuses on updating the statistical and machine learning techniques 
 
 ## Usage
 
-Multiple report formats are provided here, including a locally rendering .md file. However, this file has some rendering errors, and for best viewing, **please download the .html file.** 
+Multiple report formats are provided here, including a locally rendering .md file. However, for best viewing, **please download the .html file.** 
 
 To download, click on the .html file in the repo above, and click the download button, location shown shown in the **bottom right corner** of the screenshot below 
 
