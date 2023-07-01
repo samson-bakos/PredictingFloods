@@ -8,6 +8,6 @@ This report focuses on updating the statistical and machine learning techniques 
 
 Multiple report formats are provided here, including a locally rendering .md file. However, this file has some rendering errors, and for best viewing, please download the .HTML file. 
 
-![] (img/usage.png)
+![](img/usage.png)
 
 
