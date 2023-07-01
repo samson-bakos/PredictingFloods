@@ -12,4 +12,4 @@ To download, click on the .html file in the repo above, and click the download b
 
 ![](img/useage.png)
 
-The file will appear in your downloads, and when opened (i.e. via doubel click) will show a correctly rendered version of the report. 
+The file will appear in your downloads, and when opened (i.e. via double click) will show a rendered version of the report. 
